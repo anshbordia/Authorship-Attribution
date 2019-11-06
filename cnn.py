@@ -14,7 +14,7 @@ from collections import Counter
 import operator 
 from sklearn.model_selection import train_test_split
 
-modelw2v = KeyedVectors.load('w2vmodelnew3.bin')
+modelw2v = KeyedVectors.load('model3.bin')
 
 
 embeddings_index = {}
