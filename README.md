@@ -1,6 +1,6 @@
 # Authorship-Attribution
 
-Identify identity of the author of a tweet using NLP and Deep Learning.
+Identify the author of a tweet using NLP and Deep Learning.
 Contains:
 1) Specially trained word2vec file (word2vec features trained specifically on the Twitter dataset)
 2) Preprocessed data
